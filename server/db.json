@@ -1,0 +1,24 @@
+{
+    "todos":[
+        {
+            "Title":"Do something nice for someone I care about",
+            "Description":"",
+            "Due Date":true,
+            "Status":"Completed"
+        },
+        {
+            "Title":"Do something nice for someone I care about",
+            "Description":"",
+            "Due Date":true,
+            "Status":"Completed"
+        },
+        {
+            "Title":"Do something nice for someone I care about",
+            "Description":"",
+            "Due Date":true,
+            "Status":"Completed"
+        }
+
+        
+    ]
+}
